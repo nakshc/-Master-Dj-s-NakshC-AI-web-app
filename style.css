@@ -1,0 +1,73 @@
+.heading {
+
+font-size:25px;
+margin:0px;
+color:green;
+width:100%;
+
+
+}
+
+
+.NOTE {
+
+color:blue;
+font-size:15px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+body{
+
+background-size: cover;
+
+
+}
+
+
+
+.disk_speed {
+
+float: left;
+
+}
+
+.disk_volume {
+
+    float: right;
+    
+    }
+
+
+    
+    .disk_gif{
+
+      width: 200px;
+
+
+    }
+
+
+
+    .play_button {
+
+    width:130px;
+    font-size: 25px;
+
+
+    }
+
+    .copy_right_footer {
+
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+    font-family: fantasy;
+    position:fixed;
+    width:100%;
+
+
+    }
